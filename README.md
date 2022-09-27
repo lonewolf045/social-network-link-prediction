@@ -1,7 +1,7 @@
 # social-network-link-prediction
 
 Contains IPython Notebooks for our project  
-  
+ ```bash 
 .
 ├── Data Processing
 │   ├── Epinions
@@ -88,3 +88,4 @@ Contains IPython Notebooks for our project
 │   └── Wiki Vote
 │       └── wiki NN Experimentation.ipynb
 └── README.md
+```
